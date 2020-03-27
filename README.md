@@ -6,6 +6,13 @@ Today I Learned
 ## 목록
 - [Algorithm](https://github.com/RokwonK/Algorithm-research)
 - [Javascript](#Javascript)
+- [Math](#Math)
 
 
 ## Javascript
+- ...
+
+
+## Math
+- [삼각비](https://github.com/RokwonK/til/Math/삼각비.md)
+- [일반각](https://github.com/RokwonK/til/Math/일반각.md)
