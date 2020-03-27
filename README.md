@@ -14,5 +14,5 @@ Today I Learned
 
 
 ## Math
-- [삼각비](https://github.com/RokwonK/til/Math/삼각비.md)
-- [일반각](https://github.com/RokwonK/til/Math/일반각.md)
+- [삼각비](https://github.com/RokwonK/til/blob/master/Math/삼각비.md)
+- [일반각](https://github.com/RokwonK/til/Math/https://github.com/RokwonK/til/blob/master/Math/일반각.md)
