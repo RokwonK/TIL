@@ -19,6 +19,8 @@ Today I Learned
 - [삼각비](https://github.com/RokwonK/til/blob/master/Math/삼각비.md)
 - [일반각](https://github.com/RokwonK/til/blob/master/Math/일반각.md)
 - [호도법](https://github.com/RokwonK/til/blob/master/Math/호도법.md)
+- [삼각함수](https://github.com/RokwonK/til/blob/master/Math/삼각함수.md)
+- [대수학? 선형대수학?](https://github.com/RokwonK/til/blob/master/Math/대수학_선형.md)
 
 
 ## Technic in Algorithm
