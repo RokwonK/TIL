@@ -8,8 +8,8 @@ Today I Learned
 - [Math](#Math)
 - [Algorithm-research](https://github.com/RokwonK/Algorithm-research)
 - [Technic in Algorithm](#Technic-in-Algorithm)
-- [Docker](#Docker)
 - [Graphql](#Graphql)
+- [Docker](#Docker)
 - [Redis](#Redis)
 
 
@@ -32,11 +32,13 @@ Today I Learned
 - [다익스트라 - 역추적](https://github.com/RokwonK/til/blob/master/Technic/다익스트라_역추적.md)
 - [DP(Bottom-up) - 역추적](https://github.com/RokwonK/til/blob/master/Technic/DP_역추적.md)
 
-## Docker
-- [Docker란?]
 
-## Graphql
-- 
+## GraphQL
+- [GraphQL? 왜 쓰지?](https://github.com/RokwonK/til/blob/master/Graphql/graphql.md)
+- [API를 어떻게 정의할까](https://github.com/RokwonK/til/blob/master/Graphql/api_definition.md)
+
+## Docker
+- [Docker란?]()
 
 ## Redis
 - 
