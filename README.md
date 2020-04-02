@@ -9,6 +9,8 @@ Today I Learned
 - [Algorithm-research](https://github.com/RokwonK/Algorithm-research)
 - [Technic in Algorithm](#Technic-in-Algorithm)
 - [Docker](#Docker)
+- [Graphql](#Graphql)
+- [Redis](#Redis)
 
 
 ## Javascript
@@ -23,6 +25,7 @@ Today I Learned
 - [삼각함수](https://github.com/RokwonK/til/blob/master/Math/삼각함수.md)
 - [대수학? 선형대수학?](https://github.com/RokwonK/til/blob/master/Math/대수학_선형.md)
 - [삼각함수의 그래프](https://github.com/RokwonK/til/blob/master/Math/삼각함수_그래프.md)
+- [삼각함수의 법칙, 덧셈정리](https://github.com/RokwonK/til/blob/master/Math/삼각함수_법칙_정리.md)
 
 
 ## Technic in Algorithm
@@ -31,3 +34,9 @@ Today I Learned
 
 ## Docker
 - [Docker란?]
+
+## Graphql
+- 
+
+## Redis
+- 
