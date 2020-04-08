@@ -20,3 +20,114 @@ type Person{
     age: Int!
 }
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+스키마 작성  
+resolver?  
+
+1. body-parser를 설치 - req를 파싱하기위한 모듈
+2. apollo-server-express - graphql모듈 graphql-client를 사용하기 위함
+3. graphql-tools - 스키마를 좀더 좋게 만드는 것
+
+2에서 { graphExpress, graphiqlExpress}
+두번째꺼는 ui상에서 확인해보기 위한 모듈임
+
+
+3에서 { makeExecutableSchema }
+
+
+```js
+
+// Lang은 스키마
+// Query는 쿼리임!
+
+// 여기는 추상화된 데이터 타입임!
+const typeDef = `
+    type Lang {
+        id: Int,
+        name: String!
+    }
+    type Query {
+        getLangs(name: String): [Lang]
+    }
+`
+// 실제 데이터(예시)!
+// 원래는 데이터베이스
+const langs = [{
+    id: 0,
+    name: 'Node'
+},{
+    id: 1,
+    name : 'Python'
+}]
+
+
+// 해결사
+// 값을 보내는 용
+const resolvers = {
+    Query: {
+        getLangs: () => langs
+    }
+}
+
+
+// 실행할 수 있는 스키마를 만든다
+const schema = makeExecutableSchema({
+    typeDef,
+    resolvers
+})
+
+server.use('/graphql', bodyParser.json(), graphExpress({
+    schema
+}))
+
+server.use('/graphiql', graphiqlExpress({
+    endpoint: '/graphiql'
+}))
+
+server.listen(port, () => console.log(port))
+```
+
+{
+    getLangs{
+        id,
+        name
+    }
+}
+// graphql의 GUI 툴 - graphiql 그 안에서 값 마음대로 넣어서 결과값 알 수 있음
+
+```js
+
+const resolvers = {
+    Query: {
+        getCountries(_, args
+    }
+}
+```
+
+
+
+
+
+
+
+
+
+Apollo란?
+
+Apollo Client는 클라이언트에서
+GraphQL과의 데이터 교환을 도움 - 리액트에서 사용하는 라이브러리는 React Apollo
