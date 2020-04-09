@@ -1,7 +1,8 @@
 # TIL
 Today I Learned
 
-내가 배운 것들을 복습 겸 짧게 몰랐고 헷갈려던 내용 중심으로 작성하여 나중에 똑같은 일이 반복해서 일어나지 않게!
+1. 내가 배운 것들을 복습 겸 짧게 몰랐고 헷갈려던 내용 중심으로 작성하여 나중에 똑같은 일이 반복해서 일어나지 않게!  
+2. 왜 사용하는지 알고, 상황에 맞추어 최적의 것을 사용하자!
 
 ## 목록
 - [Javascript / Node](#Javascript)
@@ -31,6 +32,7 @@ Today I Learned
 - [TDD 왜 사용하고 어떻게 사용할까]()
 - [this란]()
 - [async와 await]()
+- [비구조화 할당 Destructuring assignment]()
 - [Node - npm과 npx]()
 - [Node - package.json / package-lock.json]()
 - [Node - EventEmitter](https://github.com/RokwonK/til/blob/master/Javascript/node_eventemitter.md)
@@ -58,14 +60,14 @@ Today I Learned
 
 
 ## React
-- [React를 왜?]()
-- [DOM? Virtual DOM?]()
-- [뷰 포트]()
-- [JSX]()
-- [Fragment]()
-- [태그의 key값을 왜 사용?]()
-- []()
-
+- [React를 왜?](https://github.com/RokwonK/til/blob/master/React/why_react.md)
+- [React에서의 기본 용어](https://github.com/RokwonK/til/blob/master/React/basic_word_in_react.md)
+- [Event Bubbling](https://github.com/RokwonK/til/blob/master/React/event_bubbling.md)
+- [왜 props에 key값을 넘겨주는가](https://github.com/RokwonK/til/blob/master/React/props_key.md)
+- [Hooks - useState, useEffect](https://github.com/RokwonK/til/blob/master/React/hooks.md)
+- [왜 props와 state를 나눠놨을까](https://github.com/RokwonK/til/blob/master/React/props_state.md)
+- [Class - 왜 setState를 따로 만들었을까](https://github.com/RokwonK/til/blob/master/React/why_setstate.md)
+- [Component 디자인 패턴](https://github.com/RokwonK/til/blob/master/React/component_design_pattern.md)
 
 ## Docker
 - [Docker란?]()
