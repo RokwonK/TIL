@@ -13,6 +13,7 @@ Today I Learned
 - [React](#React)
 - [Docker](#Docker)
 - [Redis](#Redis)
+- [Typescript](#Typescript)
 
 
 
@@ -23,19 +24,18 @@ Today I Learned
 - [Js Array methods](https://github.com/RokwonK/til/blob/master/Javascript/js_array_methods.md)
 - [reduce() 더 짧게!](https://github.com/RokwonK/til/blob/master/Javascript/reduce.md)
 - [IIFE 즉시 실행 함수](https://github.com/RokwonK/til/blob/master/Javascript/iife.md)
-- [generator]()
-- [iterator와 iterable]()
-- [spread 기법]()
-- [클로져 함수]()
-- [function의 prototype]()
-- [Promise객체 더 활용하기]()
-- [TDD 왜 사용하고 어떻게 사용할까]()
-- [this란]()
-- [async와 await]()
-- [비구조화 할당 Destructuring assignment]()
-- [Node - npm과 npx]()
-- [Node - package.json / package-lock.json]()
 - [Node - EventEmitter](https://github.com/RokwonK/til/blob/master/Javascript/node_eventemitter.md)
+- [iterable, generator](https://github.com/RokwonK/til/blob/master/Javascript/iterable_generator.md)
+- [lexical scope, Closure](https://github.com/RokwonK/til/blob/master/Javascript/lexical_closure.md)
+- [Arrow function에서의 this](https://github.com/RokwonK/til/blob/master/Javascript/this_in_arrow.md)
+- [Hoisting](https://github.com/RokwonK/til/blob/master/Javascript/hoisting.md)
+- [Promise객체 활용하기](https://github.com/RokwonK/til/blob/master/Javascript/promise.md)
+- [spread 기법]()
+- [function의 prototype]()
+- [비구조화 할당 Destructuring assignment]()
+- [Node - package.json / package-lock.json]()
+- [절차지향? 객체지향? 함수지향?]()
+
 
 
 ## Math
@@ -68,6 +68,7 @@ Today I Learned
 - [왜 props와 state를 나눠놨을까](https://github.com/RokwonK/til/blob/master/React/props_state.md)
 - [Class - 왜 setState를 따로 만들었을까](https://github.com/RokwonK/til/blob/master/React/why_setstate.md)
 - [Component 디자인 패턴](https://github.com/RokwonK/til/blob/master/React/component_design_pattern.md)
+- [Flux 아키텍처](https://github.com/RokwonK/til/blob/master/React/flux_architecture.md)
 
 ## Docker
 - [Docker란?]()

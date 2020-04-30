@@ -121,6 +121,6 @@ module.exports 객체
 </br>
 
 6. **Class**가 생김  
-- 부모로부터 상속 및 prototype 이 아닌 클래스 객츠를 사용함
+- 부모로부터 상속 및 prototype 이 아닌 클래스 객체를 사용함
     
 
