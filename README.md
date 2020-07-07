@@ -11,9 +11,6 @@ Today I Learned
 - [Technic in Algorithm](#Technic-in-Algorithm)
 - [Graphql](#Graphql)
 - [React](#React)
-- [Docker](#Docker)
-- [Redis](#Redis)
-- [Typescript](#Typescript)
 
 
 
@@ -30,11 +27,6 @@ Today I Learned
 - [Arrow function에서의 this](https://github.com/RokwonK/til/blob/master/Javascript/this_in_arrow.md)
 - [Hoisting](https://github.com/RokwonK/til/blob/master/Javascript/hoisting.md)
 - [Promise객체 활용하기](https://github.com/RokwonK/til/blob/master/Javascript/promise.md)
-- [spread 기법]()
-- [function의 prototype]()
-- [비구조화 할당 Destructuring assignment]()
-- [Node - package.json / package-lock.json]()
-- [절차지향? 객체지향? 함수지향?]()
 
 
 
@@ -46,6 +38,9 @@ Today I Learned
 - [대수학? 선형대수학?](https://github.com/RokwonK/til/blob/master/Math/대수학_선형.md)
 - [삼각함수의 그래프](https://github.com/RokwonK/til/blob/master/Math/삼각함수_그래프.md)
 - [삼각함수의 법칙, 덧셈정리](https://github.com/RokwonK/til/blob/master/Math/삼각함수_법칙_정리.md)
+- [순열, 조합, 중복순열/조합](https://github.com/RokwonK/til/blob/master/Math/조합론_1.md)
+- [조합론 - 스털링 수(1,2종), 카탈란 수...](https://github.com/RokwonK/til/blob/master/Math/조합론.md)
+
 
 
 ## Technic in Algorithm
@@ -69,14 +64,5 @@ Today I Learned
 - [Class - 왜 setState를 따로 만들었을까](https://github.com/RokwonK/til/blob/master/React/why_setstate.md)
 - [Component 디자인 패턴](https://github.com/RokwonK/til/blob/master/React/component_design_pattern.md)
 - [Flux 아키텍처](https://github.com/RokwonK/til/blob/master/React/flux_architecture.md)
-
-## Docker
-- [Docker란?]()
-
-
-## Redis
-- 
-
-
 
 
