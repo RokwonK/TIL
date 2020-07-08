@@ -40,6 +40,7 @@ Today I Learned
 - [삼각함수의 법칙, 덧셈정리](https://github.com/RokwonK/til/blob/master/Math/삼각함수_법칙_정리.md)
 - [순열, 조합, 중복순열/조합](https://github.com/RokwonK/til/blob/master/Math/조합론_1.md)
 - [조합론 - 스털링 수(1,2종), 카탈란 수...](https://github.com/RokwonK/til/blob/master/Math/조합론.md)
+- [벡터](https://github.com/RokwonK/til/blob/master/Math/조합론.md)
 
 
 
