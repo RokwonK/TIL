@@ -5,6 +5,7 @@ Today I Learned
 2. 왜 사용하는지 알고, 상황에 맞추어 최적의 것을 사용하자!
 
 ## 목록
+- [HTML](#HTML)
 - [Javascript / Node](#Javascript)
 - [Math](#Math)
 - [Algorithm-research](https://github.com/RokwonK/Algorithm-research)
@@ -12,6 +13,9 @@ Today I Learned
 - [Graphql](#Graphql)
 - [React](#React)
 
+## HTML
+- [HTML의 무엇일까](https://github.com/RokwonK/til/blob/master/HTML/what_is_html.md)
+- [태그란?](https://github.com/RokwonK/til/blob/master/HTML/tag.md)
 
 
 ## Javascript / Node
