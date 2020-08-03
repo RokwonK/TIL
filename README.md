@@ -16,6 +16,7 @@ Today I Learned
 ## HTML
 - [HTML의 무엇일까](https://github.com/RokwonK/til/blob/master/HTML/what_is_html.md)
 - [태그란?](https://github.com/RokwonK/til/blob/master/HTML/tag.md)
+- [head 태그에 대해서](https://github.com/RokwonK/til/blob/master/HTML/headtag.md)
 
 
 ## Javascript / Node
