@@ -17,8 +17,10 @@ Today I Learned
 - [HTML의 무엇일까](https://github.com/RokwonK/til/blob/master/HTML/what_is_html.md)
 - [태그란?](https://github.com/RokwonK/til/blob/master/HTML/tag.md)
 - [head 태그와 그 안의 태그에 대해서](https://github.com/RokwonK/til/blob/master/HTML/headtag.md)
-
-
+- [태그들](https://github.com/RokwonK/til/blob/master/HTML/tags.md)
+- [Content Models](https://github.com/RokwonK/til/blob/master/HTML/content_models.md)
+- [검색엔진 노출을 위한 시멘틱 마크업](https://github.com/RokwonK/til/blob/master/HTML/semantic_Markup.md)
+- [블록 레벨과 인라인 레벨](https://github.com/RokwonK/til/blob/master/HTML/block_inline.md)
 
 ## Javascript / Node
 - [비동기/논블로킹 뭐야?](https://github.com/RokwonK/til/blob/master/Javascript/async_nonblocking.md)
