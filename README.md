@@ -33,6 +33,8 @@ Today I Learned
 - [가상 클래스/요소](https://github.com/RokwonK/til/blob/master/CSS/pseudo_class.md)
 - [margin 내가 몰랐던 지식/padding과의 차이점](https://github.com/RokwonK/til/blob/master/CSS/margin.md)
 - [align(정렬)](https://github.com/RokwonK/til/blob/master/CSS/align.md)
+- [display 요소의 박스 유형](https://github.com/RokwonK/til/blob/master/CSS/display.md)
+- [float 띄우다](https://github.com/RokwonK/til/blob/master/CSS/float.md)
 
 <br>
 
