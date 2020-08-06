@@ -31,6 +31,8 @@ Today I Learned
 - [CSS 목적을 익히자](https://github.com/RokwonK/til/blob/master/CSS/what_is_css.md)
 - [속성/문서구조를 이용한 선택자](https://github.com/RokwonK/til/blob/master/CSS/attribute_selector.md)
 - [가상 클래스/요소](https://github.com/RokwonK/til/blob/master/CSS/pseudo_class.md)
+- [margin 내가 몰랐던 지식/padding과의 차이점](https://github.com/RokwonK/til/blob/master/CSS/margin.md)
+- [align(정렬)](https://github.com/RokwonK/til/blob/master/CSS/align.md)
 
 <br>
 
