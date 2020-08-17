@@ -66,6 +66,14 @@ Today I Learned
 - [1급 객체](https://github.com/RokwonK/til/blob/master/iOS_Programming/first_class_object.md)
 - [연산 프로퍼티](https://github.com/RokwonK/til/blob/master/iOS_Programming/property.md)
 - [클로져 함수(람다함수)](https://github.com/RokwonK/til/blob/master/iOS_Programming/closure.md)
+- [앱을 이루는 View Controller/생명주기](https://github.com/RokwonK/til/blob/master/iOS_Programming/view_controller.md)
+- [delegate - 대리자](https://github.com/RokwonK/til/blob/master/iOS_Programming/delegate.md)
+- [IBOutlet 과 IBAction](https://github.com/RokwonK/til/blob/master/iOS_Programming/ib.md)
+<!-- swift : AppDelegate, SceneDelegate -->
+<!-- storyboard : Main, LaunchScreen -->
+<!-- plist : info -->
+<!-- Assets -->
+- [ios 프로젝트 생성 시 나오는 기본 파일들의 역할](https://github.com/RokwonK/til/blob/master/iOS_Programming/basic_file.md)
 
 
 
