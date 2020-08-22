@@ -71,6 +71,7 @@ Today I Learned
 - [delegate - 대리자](https://github.com/RokwonK/til/blob/master/iOS_Programming/delegate.md)
 - [IBOutlet 과 IBAction](https://github.com/RokwonK/til/blob/master/iOS_Programming/ib.md)
 - [ios 프로젝트 생성 시 나오는 기본 파일들의 역할](https://github.com/RokwonK/til/blob/master/iOS_Programming/basic_file.md)
+- [Coredata](https://github.com/RokwonK/til/blob/master/iOS_Programming/coredata.md)
 - [AppDelegate 역할](https://github.com/RokwonK/til/blob/master/iOS_Programming/appdelegate.md)
 - [SceneDelegate의 역할](https://github.com/RokwonK/til/blob/master/iOS_Programming/scenedelegate.md)
 
