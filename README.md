@@ -7,7 +7,8 @@ Today I Learned
 ## 목록
 - [HTML](#HTML)
 - [CSS](#CSS)
-- [Javascript / Node](#Javascript) 
+- [Javascript](#Javascript) 
+- [Node]()
 - [iOS Programming](#iOS_Programming)
 - [Math](#Math)
 - [Algorithm-research](https://github.com/RokwonK/Algorithm-research)
@@ -39,23 +40,28 @@ Today I Learned
 - [float 띄우다](https://github.com/RokwonK/til/blob/master/CSS/float.md)
 - [반응형 웹을 위한 미디어 쿼리](https://github.com/RokwonK/til/blob/master/CSS/media_query.md)
 
-<br>
 
-## Javascript / Node
-**javascript 와 Node로 나눌 것**
 
+## Javascript
 - [비동기/논블로킹 뭐야?](https://github.com/RokwonK/til/blob/master/Javascript/async_nonblocking.md)
 - [비동기 사용법 이해, 왜 사용?](https://github.com/RokwonK/til/blob/master/Javascript/use_async.md)
 - [ES5 그 이후...](https://github.com/RokwonK/til/blob/master/Javascript/es5_subsequent.md)
 - [Js Array methods](https://github.com/RokwonK/til/blob/master/Javascript/js_array_methods.md)
 - [reduce() 더 짧게!](https://github.com/RokwonK/til/blob/master/Javascript/reduce.md)
 - [IIFE 즉시 실행 함수](https://github.com/RokwonK/til/blob/master/Javascript/iife.md)
-- [Node - EventEmitter](https://github.com/RokwonK/til/blob/master/Javascript/node_eventemitter.md)
 - [iterable, generator](https://github.com/RokwonK/til/blob/master/Javascript/iterable_generator.md)
 - [lexical scope, Closure](https://github.com/RokwonK/til/blob/master/Javascript/lexical_closure.md)
 - [Arrow function에서의 this](https://github.com/RokwonK/til/blob/master/Javascript/this_in_arrow.md)
 - [Hoisting](https://github.com/RokwonK/til/blob/master/Javascript/hoisting.md)
-- [Promise객체 활용하기](https://github.com/RokwonK/til/blob/master/Javascript/promise.md)
+- [Promise객체 활용하기 - (보강)](https://github.com/RokwonK/til/blob/master/Javascript/promise.md)
+
+<br>
+
+## Node
+- [Node - 에러 모음](https://github.com/RokwonK/til/blob/master/Node/error.md)
+- [Node - EventEmitter](https://github.com/RokwonK/til/blob/master/Node/node_eventemitter.md)
+- [node.js server - sequelize](https://github.com/RokwonK/til/blob/master/Node/sequelize.md)
+- [server인증 - 세션/쿠키, jwt](https://github.com/RokwonK/til/blob/master/Node/jwt.md)
 
 <br>
 
@@ -72,7 +78,6 @@ Today I Learned
 - [IBOutlet 과 IBAction](https://github.com/RokwonK/til/blob/master/IOS/ib.md)
 - [ios 프로젝트 생성 시 나오는 기본 파일들의 역할](https://github.com/RokwonK/til/blob/master/iOS_Programming/basic_file.md)
 - [Coredata](https://github.com/RokwonK/til/blob/master/IOS/coredata.md)
-
 - 할 예정
 - [AppDelegate 역할](https://github.com/RokwonK/til/blob/master/IOS/appdelegate.md)
 - [SceneDelegate의 역할](https://github.com/RokwonK/til/blob/master/IOS/scenedelegate.md)
