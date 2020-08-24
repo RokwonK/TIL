@@ -61,19 +61,21 @@ Today I Learned
 
 
 ## iOS_Programming 
-- [iOS - 에러 모음](https://github.com/RokwonK/til/blob/master/iOS_Programming/error.md)
-- [Swift 특징](https://github.com/RokwonK/til/blob/master/iOS_Programming/swift.md)
-- [Swift 구조체/Class](https://github.com/RokwonK/til/blob/master/iOS_Programming/swift_class.md)
-- [1급 객체](https://github.com/RokwonK/til/blob/master/iOS_Programming/first_class_object.md)
-- [연산 프로퍼티](https://github.com/RokwonK/til/blob/master/iOS_Programming/property.md)
-- [클로져 함수(람다함수)](https://github.com/RokwonK/til/blob/master/iOS_Programming/closure.md)
-- [앱을 이루는 View Controller/생명주기](https://github.com/RokwonK/til/blob/master/iOS_Programming/view_controller.md)
-- [delegate - 대리자](https://github.com/RokwonK/til/blob/master/iOS_Programming/delegate.md)
-- [IBOutlet 과 IBAction](https://github.com/RokwonK/til/blob/master/iOS_Programming/ib.md)
+- [iOS - 에러 모음](https://github.com/RokwonK/til/blob/master/IOS/error.md)
+- [Swift 특징](https://github.com/RokwonK/til/blob/master/IOS/swift.md)
+- [Swift 구조체/Class](https://github.com/RokwonK/til/blob/master/iOS/swift_class.md)
+- [1급 객체](https://github.com/RokwonK/til/blob/master/IOS/first_class_object.md)
+- [연산 프로퍼티](https://github.com/RokwonK/til/blob/master/iOS/property.md)
+- [클로져 함수(람다함수)](https://github.com/RokwonK/til/blob/master/IOS/closure.md)
+- [앱을 이루는 View Controller/생명주기](https://github.com/RokwonK/til/blob/master/iOS/view_controller.md)
+- [delegate - 대리자](https://github.com/RokwonK/til/blob/master/IOS/delegate.md)
+- [IBOutlet 과 IBAction](https://github.com/RokwonK/til/blob/master/IOS/ib.md)
 - [ios 프로젝트 생성 시 나오는 기본 파일들의 역할](https://github.com/RokwonK/til/blob/master/iOS_Programming/basic_file.md)
-- [Coredata](https://github.com/RokwonK/til/blob/master/iOS_Programming/coredata.md)
-- [AppDelegate 역할](https://github.com/RokwonK/til/blob/master/iOS_Programming/appdelegate.md)
-- [SceneDelegate의 역할](https://github.com/RokwonK/til/blob/master/iOS_Programming/scenedelegate.md)
+- [Coredata](https://github.com/RokwonK/til/blob/master/IOS/coredata.md)
+
+- 할 예정
+- [AppDelegate 역할](https://github.com/RokwonK/til/blob/master/IOS/appdelegate.md)
+- [SceneDelegate의 역할](https://github.com/RokwonK/til/blob/master/IOS/scenedelegate.md)
 
 
 <br>
