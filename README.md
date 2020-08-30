@@ -64,6 +64,7 @@ Today I Learned
 - [express - 미들웨어들의 역할](https://github.com/RokwonK/til/blob/master/Node/express_middleware.md)
 - [node.js server - sequelize](https://github.com/RokwonK/til/blob/master/Node/sequelize.md)
 - [server인증 - 세션/쿠키, jwt](https://github.com/RokwonK/til/blob/master/Node/jwt.md)
+- [pm2 - 서버운영을 원활하게](https://github.com/RokwonK/til/blob/master/Node/pm2.md)
 
 <br>
 
