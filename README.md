@@ -82,9 +82,10 @@ Today I Learned
 - [IBOutlet 과 IBAction](https://github.com/RokwonK/til/blob/master/IOS/ib.md)
 - [ios 프로젝트 생성 시 나오는 기본 파일들의 역할](https://github.com/RokwonK/til/blob/master/iOS_Programming/basic_file.md)
 - [Coredata](https://github.com/RokwonK/til/blob/master/IOS/coredata.md)
-- 할 예정
 - [AppDelegate 역할](https://github.com/RokwonK/til/blob/master/IOS/appdelegate.md)
-- [SceneDelegate의 역할](https://github.com/RokwonK/til/blob/master/IOS/scenedelegate.md)
+- [SceneDelegate의 역할](https://github.com/RokwonK/til/blob/master/IOS/
+scenedelegate.md)
+
 
 
 <br>
@@ -129,3 +130,9 @@ Today I Learned
 
 
 ## Etc
+- [디자인 패턴](https://github.com/RokwonK/til/blob/master/Etc/design_pattern.md)
+// 디자인 패턴 (싱글톤 패턴 등) 이것이 무엇인지
+// 아키텍쳐
+// IOS - 옵저버 패턴
+// IOS - RxSwift
+// IOS - MVVM
