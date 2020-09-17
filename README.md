@@ -101,6 +101,7 @@ scenedelegate.md)
 - [순열, 조합, 중복순열/조합](https://github.com/RokwonK/til/blob/master/Math/조합론_1.md)
 - [조합론 - 스털링 수(1,2종), 카탈란 수...](https://github.com/RokwonK/til/blob/master/Math/조합론.md)
 - [벡터](https://github.com/RokwonK/til/blob/master/Math/조합론.md)
+- [미분](https://github.com/RokwonK/til/blob/master/Math/미분.md)
 
 <br>
 
