@@ -75,7 +75,6 @@ Today I Learned
 - [Swift 특징](https://github.com/RokwonK/til/blob/master/IOS/swift.md)
 - [Swift 구조체/Class](https://github.com/RokwonK/til/blob/master/iOS/swift_class.md)
 - [1급 객체](https://github.com/RokwonK/til/blob/master/IOS/first_class_object.md)
-- [연산 프로퍼티](https://github.com/RokwonK/til/blob/master/iOS/property.md)
 - [클로져 함수(람다함수)](https://github.com/RokwonK/til/blob/master/IOS/closure.md)
 - [앱을 이루는 View Controller/생명주기](https://github.com/RokwonK/til/blob/master/iOS/view_controller.md)
 - [delegate - 대리자](https://github.com/RokwonK/til/blob/master/IOS/delegate.md)
@@ -83,8 +82,9 @@ Today I Learned
 - [ios 프로젝트 생성 시 나오는 기본 파일들의 역할](https://github.com/RokwonK/til/blob/master/iOS_Programming/basic_file.md)
 - [Coredata](https://github.com/RokwonK/til/blob/master/IOS/coredata.md)
 - [AppDelegate 역할](https://github.com/RokwonK/til/blob/master/IOS/appdelegate.md)
-- [SceneDelegate의 역할](https://github.com/RokwonK/til/blob/master/IOS/
-scenedelegate.md)
+- [SceneDelegate의 역할](https://github.com/RokwonK/til/blob/master/IOS/scenedelegate.md)
+- [RxSwift](https://github.com/RokwonK/til/blob/master/IOS/scenedelegate.md)
+- [프로퍼티](https://github.com/RokwonK/til/blob/master/iOS/property.md)
 
 
 
@@ -135,6 +135,11 @@ scenedelegate.md)
 - [디자인 패턴](https://github.com/RokwonK/til/blob/master/Etc/design_pattern.md)
 // 디자인 패턴 (싱글톤 패턴 등) 이것이 무엇인지
 // 아키텍쳐
+
+
 // IOS - 옵저버 패턴
-// IOS - RxSwift
 // IOS - MVVM
+// mutation func
+// struct, class, enum의 차이
+// struct에서 get, set으로 접근해야한다?
+// Codable
