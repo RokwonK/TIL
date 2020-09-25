@@ -15,6 +15,7 @@ Today I Learned
 - [Technic in Algorithm](#Technic-in-Algorithm)
 - [Graphql](#Graphql)
 - [React](#React)
+- [OS](#OS)
 - [IT Etc...](#Etc)
 
 
@@ -133,16 +134,27 @@ Today I Learned
 - [Component 디자인 패턴](https://github.com/RokwonK/til/blob/master/React/component_design_pattern.md)
 - [Flux 아키텍처](https://github.com/RokwonK/til/blob/master/React/flux_architecture.md)
 
+<br>
+
+## OS
+- [cpu, 프로세서, 코어](https://github.com/RokwonK/til/blob/master/OS/cpu.md)
+- [프로세스 정복기](https://github.com/RokwonK/til/blob/master/OS/process.md)
+- [쓰레드 Hard/soft](https://github.com/RokwonK/til/blob/master/OS/thread.md)
+- [멀티 프로세싱, 멀티 태스킹, 멀티 프로그래밍, 멀티 쓰레딩 멀티 가족 이해하기](https://github.com/RokwonK/til/blob/master/OS/multi_family.md)
+- [쓰레드 Hard/soft](https://github.com/RokwonK/til/blob/master/OS/cpu_scheduling.md)
+- [프로세스 동기화 방법](https://github.com/RokwonK/til/blob/master/OS/process_sync.md)
+
+<br>
 
 ## Etc
 - [디자인 패턴](https://github.com/RokwonK/til/blob/master/Etc/design_pattern.md)
+
+
+
+
 // 디자인 패턴 (싱글톤 패턴 등) 이것이 무엇인지
 // 아키텍쳐
 // IOS - 옵저버 패턴
-
-
-// struct, class, enum의 차이
-// Codable
 // IOS - RxSwift
 // IOS - MVVM
 // 커넥션 풀??
