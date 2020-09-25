@@ -85,6 +85,9 @@ Today I Learned
 - [SceneDelegate의 역할](https://github.com/RokwonK/til/blob/master/IOS/scenedelegate.md)
 - [RxSwift](https://github.com/RokwonK/til/blob/master/IOS/scenedelegate.md)
 - [프로퍼티](https://github.com/RokwonK/til/blob/master/iOS/property.md)
+- [Struct의 mutating](https://github.com/RokwonK/til/blob/master/iOS/mutating_of_struct.md)
+- [열거형 enum](https://github.com/RokwonK/til/blob/master/iOS/enum.md)
+- [혁명! Codable](https://github.com/RokwonK/til/blob/master/iOS/codable.md)
 
 
 
@@ -135,11 +138,11 @@ Today I Learned
 - [디자인 패턴](https://github.com/RokwonK/til/blob/master/Etc/design_pattern.md)
 // 디자인 패턴 (싱글톤 패턴 등) 이것이 무엇인지
 // 아키텍쳐
-
-
 // IOS - 옵저버 패턴
-// IOS - MVVM
-// mutation func
+
+
 // struct, class, enum의 차이
-// struct에서 get, set으로 접근해야한다?
 // Codable
+// IOS - RxSwift
+// IOS - MVVM
+// 커넥션 풀??
