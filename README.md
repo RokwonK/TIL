@@ -84,11 +84,12 @@ Today I Learned
 - [Coredata](https://github.com/RokwonK/til/blob/master/IOS/coredata.md)
 - [AppDelegate 역할](https://github.com/RokwonK/til/blob/master/IOS/appdelegate.md)
 - [SceneDelegate의 역할](https://github.com/RokwonK/til/blob/master/IOS/scenedelegate.md)
-- [RxSwift](https://github.com/RokwonK/til/blob/master/IOS/scenedelegate.md)
 - [프로퍼티](https://github.com/RokwonK/til/blob/master/iOS/property.md)
 - [Struct의 mutating](https://github.com/RokwonK/til/blob/master/iOS/mutating_of_struct.md)
 - [열거형 enum](https://github.com/RokwonK/til/blob/master/iOS/enum.md)
 - [혁명! Codable](https://github.com/RokwonK/til/blob/master/iOS/codable.md)
+- [Grand Central Dispatch - 쓰레드 관련 작업](https://github.com/RokwonK/til/blob/master/iOS/gcd.md)
+- [RxSwift](https://github.com/RokwonK/til/blob/master/IOS/rxswift.md)
 
 
 
