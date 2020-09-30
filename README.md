@@ -89,6 +89,7 @@ Today I Learned
 - [열거형 enum](https://github.com/RokwonK/til/blob/master/iOS/enum.md)
 - [혁명! Codable](https://github.com/RokwonK/til/blob/master/iOS/codable.md)
 - [Grand Central Dispatch - 쓰레드 관련 작업](https://github.com/RokwonK/til/blob/master/iOS/gcd.md)
+- [Notification center - 이벤트 관찰](https://github.com/RokwonK/til/blob/master/iOS/notification_center.md)
 - [RxSwift](https://github.com/RokwonK/til/blob/master/IOS/rxswift.md)
 
 
