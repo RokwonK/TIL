@@ -46,10 +46,6 @@ Observable.subscribe { event in
         }
     }
 }
-button.rx.tap.subscribe { _ in
-    // 작업코드
-    // 이 경우 onNext() 이베트만 있지 파라미터는 없음
-}
 ```
 
 ## Observable의 이벤트
@@ -61,23 +57,14 @@ button.rx.tap.subscribe { _ in
 - **onComplete**
 다음 값이 없음.(모든 값 방출 완료)  
 
-dispose, disposable, disposeBag 등...
 
+## dispose, disposable, disposeBag 등...
 ## Single
-
 ## Operators
-
 ## Subject
-
 ## Schedulers
 dispatch queue와 동일함
 
-
-
 <br>
-
-
-
-
 
 참고 블로그 출처 - [https://brunch.co.kr/@tilltue/2](https://brunch.co.kr/@tilltue/2)

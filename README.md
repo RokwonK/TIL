@@ -91,8 +91,9 @@ Today I Learned
 - [Grand Central Dispatch - 쓰레드 관련 작업](https://github.com/RokwonK/til/blob/master/iOS/gcd.md)
 - [Notification center - 이벤트 관찰](https://github.com/RokwonK/til/blob/master/iOS/notification_center.md)
 - [RxSwift](https://github.com/RokwonK/til/blob/master/IOS/rxswift.md)
-
-
+- [RxSwift - Subject](https://github.com/RokwonK/til/blob/master/IOS/rxswift_subject.md)
+- [RxSwift - 연산자](https://github.com/RokwonK/til/blob/master/IOS/rxswift_operators.md)
+- [RxSwift - Binding](https://github.com/RokwonK/til/blob/master/IOS/rxswift_binding.md)
 
 <br>
 
@@ -157,6 +158,5 @@ Today I Learned
 // 디자인 패턴 (싱글톤 패턴 등) 이것이 무엇인지
 // 아키텍쳐
 // IOS - 옵저버 패턴
-// IOS - RxSwift
 // IOS - MVVM
 // 커넥션 풀??
