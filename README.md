@@ -5,30 +5,16 @@ Today I Learned
 2. 왜 사용하는지 알고, 상황에 맞추어 최적의 것을 사용하자!
 
 ## 목록
-- [HTML](#HTML)
-- [CSS](#CSS)
-- [Javascript](#Javascript) 
-- [Node]()
-- [iOS Programming](#iOS_Programming)
-- [Math](#Math)
-- [Algorithm-research](https://github.com/RokwonK/Algorithm-research)
-- [Technic in Algorithm](#Technic-in-Algorithm)
-- [Graphql](#Graphql)
-- [React](#React)
-- [OS](#OS)
-- [IT Etc...](#Etc)
-
-
-<br>
-
-## HTML
-- [HTML의 무엇일까](https://github.com/RokwonK/til/blob/master/HTML/what_is_html.md)
-- [태그란?](https://github.com/RokwonK/til/blob/master/HTML/tag.md)
-- [head 태그와 그 안의 태그에 대해서](https://github.com/RokwonK/til/blob/master/HTML/headtag.md)
-- [태그들](https://github.com/RokwonK/til/blob/master/HTML/tags.md)
-- [Content Models](https://github.com/RokwonK/til/blob/master/HTML/content_models.md)
-- [검색엔진 노출을 위한 시멘틱 마크업](https://github.com/RokwonK/til/blob/master/HTML/semantic_Markup.md)
-- [블록 레벨과 인라인 레벨](https://github.com/RokwonK/til/blob/master/HTML/block_inline.md)
+1. [CSS](#CSS)
+2. [Javascript](#Javascript) 
+3. [Node](#Node)
+4. [iOS Programming](#iOS_Programming)
+5. [Math](#Math)
+6. [Technic in Algorithm](#Technic-in-Algorithm)
+7. [React](#React)
+8. [OS/Network](#OS/Network)
+9. [AI](#AI)
+10. [IT Etc...](#Etc)
 
 <br>
 
@@ -118,13 +104,8 @@ Today I Learned
 - [DP(Bottom-up) - 역추적](https://github.com/RokwonK/til/blob/master/Technic/DP_역추적.md)
 - [쿼리 - Offline Query](https://github.com/RokwonK/til/blob/master/Technic/offline_query.md)
 
-<br>
 
-## GraphQL
-- [GraphQL? 왜 쓰지?](https://github.com/RokwonK/til/blob/master/Graphql/graphql.md)
-- [API를 어떻게 정의할까](https://github.com/RokwonK/til/blob/master/Graphql/api_definition.md)
-
-<br>
+<br/>
 
 ## React
 - [React를 왜?](https://github.com/RokwonK/til/blob/master/React/why_react.md)
@@ -139,13 +120,19 @@ Today I Learned
 
 <br>
 
-## OS
+## OS/Network
 - [cpu, 프로세서, 코어](https://github.com/RokwonK/til/blob/master/OS/cpu.md)
 - [프로세스 정복기](https://github.com/RokwonK/til/blob/master/OS/process.md)
 - [쓰레드 Hard/soft](https://github.com/RokwonK/til/blob/master/OS/thread.md)
 - [멀티 프로세싱, 멀티 태스킹, 멀티 프로그래밍, 멀티 쓰레딩 멀티 가족 이해하기](https://github.com/RokwonK/til/blob/master/OS/multi_family.md)
 - [쓰레드 Hard/soft](https://github.com/RokwonK/til/blob/master/OS/cpu_scheduling.md)
 - [프로세스 동기화 방법](https://github.com/RokwonK/til/blob/master/OS/process_sync.md)
+
+<br>
+
+## AI
+- [인공지능, 머신러닝, 딥러닝](https://github.com/RokwonK/til/blob/master/AI/ai_ml_dl.md)
+
 
 <br>
 
