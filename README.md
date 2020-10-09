@@ -76,6 +76,7 @@ Today I Learned
 - [혁명! Codable](https://github.com/RokwonK/til/blob/master/iOS/codable.md)
 - [Grand Central Dispatch - 쓰레드 관련 작업](https://github.com/RokwonK/til/blob/master/iOS/gcd.md)
 - [Notification center - 이벤트 관찰](https://github.com/RokwonK/til/blob/master/iOS/notification_center.md)
+- [Generics](https://github.com/RokwonK/til/blob/master/iOS/generic.md)
 - [RxSwift](https://github.com/RokwonK/til/blob/master/IOS/rxswift.md)
 - [RxSwift - Subject](https://github.com/RokwonK/til/blob/master/IOS/rxswift_subject.md)
 - [RxSwift - 연산자](https://github.com/RokwonK/til/blob/master/IOS/rxswift_operators.md)
@@ -147,3 +148,4 @@ Today I Learned
 // IOS - 옵저버 패턴
 // IOS - MVVM
 // 커넥션 풀??
+// 수학 - 미분방정식
