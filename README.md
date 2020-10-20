@@ -138,7 +138,8 @@ Today I Learned
 <br>
 
 ## Etc
-- [디자인 패턴](https://github.com/RokwonK/til/blob/master/Etc/design_pattern.md)
+- [Docker와 VM을 비교하며 알아가자](https://github.com/RokwonK/til/blob/master/Etc/docker.md)
+- [예정) 디자인 패턴](https://github.com/RokwonK/til/blob/master/Etc/design_pattern.md)
 
 
 
