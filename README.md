@@ -139,6 +139,9 @@ Today I Learned
 
 ## Etc
 - [Docker와 VM을 비교하며 알아가자](https://github.com/RokwonK/til/blob/master/Etc/docker.md)
+- [Docker : 컨테이너 오케스트레이션](https://github.com/RokwonK/til/blob/master/Etc/containerOrchestration.md)
+- [Kubernetes 대란](https://github.com/RokwonK/til/blob/master/Etc/Kubernetes.md)
+
 - [예정) 디자인 패턴](https://github.com/RokwonK/til/blob/master/Etc/design_pattern.md)
 
 
@@ -151,3 +154,4 @@ Today I Learned
 // 커넥션 풀??
 // 수학 - 미분방정식
 // 수학 - 오일러-코시
+// 수학 - 라플라스 변환
