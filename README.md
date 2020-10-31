@@ -134,7 +134,6 @@ Today I Learned
 ## AI
 - [인공지능, 머신러닝, 딥러닝](https://github.com/RokwonK/til/blob/master/AI/ai_ml_dl.md)
 
-
 <br>
 
 ## Etc
@@ -156,3 +155,4 @@ Today I Learned
 // 수학 - 오일러-코시
 // 수학 - 라플라스 변환
 // iOS - 도입하고 싶은 기술
+// iOS - 패스트캠퍼스 강의 다듣기
