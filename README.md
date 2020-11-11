@@ -81,6 +81,7 @@ Today I Learned
 - [RxSwift - Subject](https://github.com/RokwonK/til/blob/master/IOS/rxswift_subject.md)
 - [RxSwift - 연산자](https://github.com/RokwonK/til/blob/master/IOS/rxswift_operators.md)
 - [RxSwift - Binding](https://github.com/RokwonK/til/blob/master/IOS/rxswift_binding.md)
+- [Throttle과 Debounce 연속된 이벤트 처리](https://github.com/RokwonK/til/blob/master/IOS/throttle_and_debounce.md)
 
 <br>
 
