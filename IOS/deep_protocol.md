@@ -48,9 +48,3 @@ extension P{
 // 프로토콜 P를 구현하지 않아도 된다는 것!!!
 class A : P {}
 ```
-
-
-<br><br>
-
-그럼 Delegation pattern이란 무엇일까?
-## Delegation pattern

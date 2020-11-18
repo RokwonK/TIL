@@ -64,7 +64,6 @@ Today I Learned
 - [1급 객체](https://github.com/RokwonK/til/blob/master/IOS/first_class_object.md)
 - [클로져 함수(람다함수)](https://github.com/RokwonK/til/blob/master/IOS/closure.md)
 - [앱을 이루는 View Controller/생명주기](https://github.com/RokwonK/til/blob/master/iOS/view_controller.md)
-- [delegate - 대리자](https://github.com/RokwonK/til/blob/master/IOS/delegate.md)
 - [IBOutlet 과 IBAction](https://github.com/RokwonK/til/blob/master/IOS/ib.md)
 - [ios 프로젝트 생성 시 나오는 기본 파일들의 역할](https://github.com/RokwonK/til/blob/master/iOS_Programming/basic_file.md)
 - [Coredata](https://github.com/RokwonK/til/blob/master/IOS/coredata.md)
@@ -83,6 +82,11 @@ Today I Learned
 - [RxSwift - Binding](https://github.com/RokwonK/til/blob/master/IOS/rxswift_binding.md)
 - [Throttle과 Debounce 연속된 이벤트 처리](https://github.com/RokwonK/til/blob/master/IOS/throttle_and_debounce.md)
 - [Protocol 심화](https://github.com/RokwonK/til/blob/master/IOS/deep_protocol.md)
+- [스위프트의 메모리 관리, retain_cycle](https://github.com/RokwonK/til/blob/master/IOS/swift_memory_management.md)
+- [Delegation Pattern 왜 사용하는 걸까](https://github.com/RokwonK/til/blob/master/IOS/delegation_pattern.md)
+- [Observer Pattern, singleton Pattern??? ](https://github.com/RokwonK/til/blob/master/IOS/observer_pattern.md)
+- [UICollectionView - UITableView와 비교하며 알아보자](https://github.com/RokwonK/til/blob/master/IOS/uicollectionview.md)
+
 
 <br>
 
