@@ -37,7 +37,8 @@ ARC가 메모리 해제를 해주는 것은 reference counting이 0개인 인스
 위를 쓰지 않으면 자동으로 default 즉, strong으로 할당된다.  
 ```swift
 var info : () -> Void = { [weak self] in
-    print(self.name)
+    // weak는 옵셔널 이므로 self에 ?붙여준다. 
+    print(self?.name)
 }
 ```
 클로져를 지역적으로 사용(변수에 저장 등이 아닌 바로 사용하는 용도)시, 강한참조를 하는 것이 아니므로, 레퍼런스타입을 사용하지 않아도 됨.
