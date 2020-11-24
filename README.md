@@ -85,6 +85,7 @@ Today I Learned
 - [스위프트의 메모리 관리, retain_cycle](https://github.com/RokwonK/til/blob/master/IOS/swift_memory_management.md)
 - [Delegation Pattern 왜 사용하는 걸까](https://github.com/RokwonK/til/blob/master/IOS/delegation_pattern.md)
 - [Swift Attribute](https://github.com/RokwonK/til/blob/master/IOS/swift_attributes.md)
+- [DI - Dependency Injection 의존성 주입!](https://github.com/RokwonK/til/blob/master/IOS/Dependency_Injection.md)
 - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 - [UICollectionView - UITableView와 비교하며 알아보자](https://github.com/RokwonK/til/blob/master/IOS/uicollectionview.md)
 - [Observer Pattern, singleton Pattern??? ](https://github.com/RokwonK/til/blob/master/IOS/observer_pattern.md)
@@ -153,14 +154,13 @@ Today I Learned
 
 
 
-// 디자인 패턴 (싱글톤 패턴 등) 이것이 무엇인지
-// 아키텍쳐
-// iOS - 강의 다듣기, Rx강의 다 듣기
-// iOS - 옵저버 패턴
+
 // 커넥션 풀??
 // 수학 - 미분방정식
 // 수학 - 오일러-코시
 // 수학 - 라플라스 변환
-// iOS - 도입하고 싶은 기술
+// 디자인 패턴 (싱글톤 패턴 등) 이것이 무엇인지
+// iOS - MVVM + Repository Pattern
+// iOS - 강의 다듣기, Rx강의 다 듣기
+// iOS - 옵저버 패턴
 // iOS - 패스트캠퍼스 강의 다듣기, MVVM
-// iOS - amplitude
