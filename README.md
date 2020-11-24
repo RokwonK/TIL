@@ -84,6 +84,8 @@ Today I Learned
 - [Protocol 심화](https://github.com/RokwonK/til/blob/master/IOS/deep_protocol.md)
 - [스위프트의 메모리 관리, retain_cycle](https://github.com/RokwonK/til/blob/master/IOS/swift_memory_management.md)
 - [Delegation Pattern 왜 사용하는 걸까](https://github.com/RokwonK/til/blob/master/IOS/delegation_pattern.md)
+- [Swift Attribute](https://github.com/RokwonK/til/blob/master/IOS/swift_attributes.md)
+- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 - [UICollectionView - UITableView와 비교하며 알아보자](https://github.com/RokwonK/til/blob/master/IOS/uicollectionview.md)
 - [Observer Pattern, singleton Pattern??? ](https://github.com/RokwonK/til/blob/master/IOS/observer_pattern.md)
 
