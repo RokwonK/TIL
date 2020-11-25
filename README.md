@@ -86,6 +86,7 @@ Today I Learned
 - [Delegation Pattern 왜 사용하는 걸까](https://github.com/RokwonK/til/blob/master/IOS/delegation_pattern.md)
 - [Swift Attribute](https://github.com/RokwonK/til/blob/master/IOS/swift_attributes.md)
 - [DI - Dependency Injection 의존성 주입!](https://github.com/RokwonK/til/blob/master/IOS/Dependency_Injection.md)
+- [xcodeproj와 xcworkspace의 차이](https://github.com/RokwonK/til/blob/master/IOS/xcodeproj_xcworkspace.md)
 - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 - [UICollectionView - UITableView와 비교하며 알아보자](https://github.com/RokwonK/til/blob/master/IOS/uicollectionview.md)
 - [Observer Pattern, singleton Pattern??? ](https://github.com/RokwonK/til/blob/master/IOS/observer_pattern.md)
