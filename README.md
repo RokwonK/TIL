@@ -6,7 +6,7 @@ Today I Learned
 
 ## 목록
 1. [CSS](#CSS)
-2. [Javascript](#Javascript) 
+2. [Javascript](#Javascript)
 3. [Node](#Node)
 4. [iOS Programming](#iOS_Programming)
 5. [Math](#Math)
@@ -15,6 +15,7 @@ Today I Learned
 8. [OS/Network](#OS/Network)
 9. [AI](#AI)
 10. [IT Etc...](#Etc)
+10. [만들어 볼 것들](#만들어_볼_것들)
 
 <br>
 
@@ -58,6 +59,7 @@ Today I Learned
 
 
 ## iOS_Programming 
+- **순서에 따라 다시 배치하기**
 - [iOS - 에러 모음](https://github.com/RokwonK/til/blob/master/IOS/error.md)
 - [Swift 특징](https://github.com/RokwonK/til/blob/master/IOS/swift.md)
 - [Swift 구조체/Class](https://github.com/RokwonK/til/blob/master/iOS/swift_class.md)
@@ -87,7 +89,15 @@ Today I Learned
 - [Swift Attribute](https://github.com/RokwonK/til/blob/master/IOS/swift_attributes.md)
 - [DI - Dependency Injection 의존성 주입!](https://github.com/RokwonK/til/blob/master/IOS/Dependency_Injection.md)
 - [xcodeproj와 xcworkspace의 차이](https://github.com/RokwonK/til/blob/master/IOS/xcodeproj_xcworkspace.md)
+- [앱의 생명주기를 Appdelegate의 메서드들과 연관지어 생각해보자!](https://github.com/RokwonK/til/blob/master/IOS/app_lifeCycle.md)
+- [Main run Loop와 Update Cycle](https://github.com/RokwonK/til/blob/master/IOS/app_lifeCycle.md)
+
+
+
 - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+- [UIKit Framework와 UI들의 루트](https://github.com/RokwonK/til/blob/master/IOS/uikit.md)
+- [Responder Chain](https://github.com/RokwonK/til/blob/master/IOS/responder_Chain.md)
+- [Layout Subviews 메서드!](https://github.com/RokwonK/til/blob/master/IOS/layoutsubviews_method.md)
 - [UICollectionView - UITableView와 비교하며 알아보자](https://github.com/RokwonK/til/blob/master/IOS/uicollectionview.md)
 - [Observer Pattern, singleton Pattern??? ](https://github.com/RokwonK/til/blob/master/IOS/observer_pattern.md)
 
@@ -153,9 +163,6 @@ Today I Learned
 - [예정) 디자인 패턴](https://github.com/RokwonK/til/blob/master/Etc/design_pattern.md)
 
 
-
-
-
 // 커넥션 풀??
 // 수학 - 미분방정식
 // 수학 - 오일러-코시
@@ -164,4 +171,25 @@ Today I Learned
 // iOS - MVVM + Repository Pattern
 // iOS - 강의 다듣기, Rx강의 다 듣기
 // iOS - 옵저버 패턴
-// iOS - 패스트캠퍼스 강의 다듣기, MVVM
+// iOS - 패스트캠퍼스 강의 다듣기, MVVM  
+
+## 만들어_볼_것들
+
+1. iOS - DeepDiff를 이용한 collectionView reload 애니메이션
+2. iOS - collectionView를 이용한 tabBar 및 tabBar애니메이션(슬라이드로 다음화면 넘어가기)
+3. iOS - 화면 슬라이드시 위 뷰는 가만히 있고 특정 뷰만 위로 올라가며 스크롤 되게(collectionview, scrollview 두 가지 버전 다 해보기)
+
+
+
+
+@@@@@@@@@@@@@@@@@@  
+1. JSON 데이터 받아오기
+2. 받아온 데이터 deserialize => responseType.deserialize(from : 받아온 것들)
+3. deserialize 한것 map으로 하나씩 보면서 toJSONString().data로 바꾸기
+4. JSONDecode로 codable entity로 바꾸기 그걸로 배열 만들기
+
+- FCM
+    1. 애플개발자 계정 - Keys 에서 Apple Push Notifications Service 설정 및 등록
+    2. key ID = 894Y57XMNL, p8 파일 다운로드
+    3. Identifiers 등록 -> Push Notification 선택(Bundle ID - 앱 Bundle Identifier)
+    4. Identifiers 등록하면 TeamID = Y4PV42VCTJ
