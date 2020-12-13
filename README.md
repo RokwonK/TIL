@@ -60,6 +60,7 @@ Today I Learned
 
 ## iOS_Programming 
 - **순서에 따라 다시 배치하기**
+- [iOS 앱 실행과정](https://github.com/RokwonK/til/blob/master/IOS/app_execute.md)
 - [iOS - 에러 모음](https://github.com/RokwonK/til/blob/master/IOS/error.md)
 - [Swift 특징](https://github.com/RokwonK/til/blob/master/IOS/swift.md)
 - [Swift 구조체/Class](https://github.com/RokwonK/til/blob/master/iOS/swift_class.md)
@@ -90,7 +91,7 @@ Today I Learned
 - [DI - Dependency Injection 의존성 주입!](https://github.com/RokwonK/til/blob/master/IOS/Dependency_Injection.md)
 - [xcodeproj와 xcworkspace의 차이](https://github.com/RokwonK/til/blob/master/IOS/xcodeproj_xcworkspace.md)
 - [앱의 생명주기를 Appdelegate의 메서드들과 연관지어 생각해보자!](https://github.com/RokwonK/til/blob/master/IOS/app_lifeCycle.md)
-- [Main run Loop와 Update Cycle](https://github.com/RokwonK/til/blob/master/IOS/app_lifeCycle.md)
+- [Main run Loop와 Update Cycle](https://github.com/RokwonK/til/blob/master/IOS/main_run_loop.md)
 
 
 
