@@ -21,11 +21,11 @@ Today I Learned
 <hr>
 
 ## **Swift**
-
+- [Swift 프로퍼티 종류](https://github.com/RokwonK/TIL/blob/master/V2/Swift/kind_of_property.md)
 
 <hr>
 
 ## **iOS**
-- [View의 frame과 bounds의 차이]()
+- [View의 frame과 bounds의 차이](https://github.com/RokwonK/TIL/blob/master/V2/iOS/frame_bounds.md)
 
 <hr>
