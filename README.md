@@ -26,7 +26,12 @@ Today I Learned
 <hr>
 
 ## **iOS**
+- [iOS App의 기본 구조](https://github.com/RokwonK/TIL/blob/master/V2/iOS/앱의_기본_구조.md)
+- [iOS App의 화면 구조]()
+- [UIViewController란]()
 - [View의 frame과 bounds의 차이](https://github.com/RokwonK/TIL/blob/master/V2/iOS/frame_bounds.md)
-- [setNeedsLayout과 layoutIfNeeded, layoutSubviews]()
+- [setNeedsLayout과 layoutIfNeeded, layoutSubviews](https://github.com/RokwonK/TIL/blob/master/V2/iOS/setNeedsLayout_layoutIfNeeded_layoutSubviews.md)
+- [@ = 어트리뷰션?]
+- [property wrapper]
 
 <hr>
