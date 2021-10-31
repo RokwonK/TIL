@@ -15,23 +15,43 @@ Today I Learned
 ## **개발상식**
 
 
-<hr>
+
+<br><hr><br>
+
+
+
 
 ## **Computer Science**
 
-<hr>
+
+
+<br><hr><br>
+
+
+
 
 ## **Swift**
 - [Swift 프로퍼티 종류](https://github.com/RokwonK/TIL/blob/master/V2/Swift/kind_of_property.md)
 
-<hr>
+
+
+<br><hr><br>
+
+
 
 ## **iOS**
+### **기초 상식**
+- [시뮬레이터와 에뮬레이터]()
+- [iOS 시뮬레이터와 Device의 차이]()
 - [iOS App의 기본 구조](https://github.com/RokwonK/TIL/blob/master/V2/iOS/앱의_기본_구조.md)
+
+### **UIKit**
 - [UIKit](https://github.com/RokwonK/TIL/blob/master/V2/iOS/UIKit.md)
 - [UIWindow]
 - [iOS App의 화면 구조]()
 - [UIViewController란]()
+
+### **UI Property**
 - [View의 frame과 bounds의 차이](https://github.com/RokwonK/TIL/blob/master/V2/iOS/frame_bounds.md)
 - [setNeedsLayout과 layoutIfNeeded, layoutSubviews](https://github.com/RokwonK/TIL/blob/master/V2/iOS/setNeedsLayout_layoutIfNeeded_layoutSubviews.md)
 - [MVC에 대한 정리]
@@ -43,7 +63,11 @@ Today I Learned
 - [property wrapper]
 - [추가]
 
-<hr>
+
+
+<br><hr><br>
+
+
 
 ## **Xcode**
 - [Target과 Project]()
