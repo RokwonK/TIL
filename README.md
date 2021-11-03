@@ -20,13 +20,16 @@ Today I Learned
 
 
 
-
 ## **Computer Science**
+### **DB**
+- [DBMS와 DB 특징]()
+- [트랜잭션에 대한 모든것]()
+- [정규화에 대한 모든것]()
+- [인덱스에 대한 모든것]()
 
 
 
 <br><hr><br>
-
 
 
 
@@ -34,9 +37,7 @@ Today I Learned
 - [Swift 프로퍼티 종류](https://github.com/RokwonK/TIL/blob/master/V2/Swift/kind_of_property.md)
 
 
-
 <br><hr><br>
-
 
 
 ## **iOS**
