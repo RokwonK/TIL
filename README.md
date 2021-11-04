@@ -22,11 +22,20 @@ Today I Learned
 
 ## **Computer Science**
 ### **DB**
-- [DBMS와 DB 특징]()
+- [DBMS와 DB특징, Key]()
+- [Join]()
 - [트랜잭션에 대한 모든것]()
 - [정규화에 대한 모든것]()
 - [인덱스에 대한 모든것]()
 - [어떤 DB를 사용해야하는가 - CAP 이론]()
+- [Replication, 파티셔닝, 샤딩]()
+    - Replication
+        - Query 분산
+        - 여러개의 데이터베이스 - 하나는 Master, 다른 것들은 Slave
+        - Master에서만 insert가능, 나머지는 select만
+        - insert를 어떻게 다른 db에 동기화 할 수 있을까?
+    - 샤딩
+        - 큰 테이블을 여러개로 분산
 
 
 
