@@ -22,7 +22,7 @@ Today I Learned
 
 ## **Computer Science**
 ### **DB**
-- [DBMS와 DB특징, Key]()
+- [DBMS와 DB]()
 - [Join]()
 - [트랜잭션에 대한 모든것]()
 - [정규화에 대한 모든것]()
@@ -47,7 +47,9 @@ Today I Learned
 - [Swift 프로퍼티 종류](https://github.com/RokwonK/TIL/blob/master/V2/Swift/kind_of_property.md)
 
 
+
 <br><hr><br>
+
 
 
 ## **iOS**
