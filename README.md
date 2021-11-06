@@ -1,8 +1,8 @@
 # TIL
-Today I Learned
+Today I Learned  
 
 - 간단하게 알게 된 것을 정리  
-- 더 깊게 파고들어야 할 것은 블로그에 정리!
+- 더 깊게 파고들어야 할 것은 블로그에 정리!  
 
 ### **목록**
 0. [개발 상식](#개발상식)
@@ -22,9 +22,9 @@ Today I Learned
 
 ## **Computer Science**
 ### **DB**
-- [DBMS와 DB]()
+- [DBMS와 DB](https://github.com/RokwonK/TIL/blob/master/V2/CS/DB/DB와_DBMS.md)
 - [Join]()
-- [트랜잭션에 대한 모든것]()
+- [트랜잭션에 대한 모든것](https://github.com/RokwonK/TIL/blob/master/V2/CS/DB/트랜잭션.md)
 - [정규화에 대한 모든것]()
 - [인덱스에 대한 모든것]()
 - [어떤 DB를 사용해야하는가 - CAP 이론]()
@@ -88,3 +88,13 @@ Today I Learned
 target  
 project  
 bundle이란  
+
+
+
+<br><hr><br>
+
+
+
+## **Goal**
+목표  
+- [개발자로서의 목표]()
