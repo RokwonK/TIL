@@ -26,7 +26,7 @@ Today I Learned
 - [Join]()
 - [트랜잭션에 대한 모든것](https://github.com/RokwonK/TIL/blob/master/V2/CS/DB/트랜잭션.md)
 - [정규화에 대한 모든것]()
-- [인덱스에 대한 모든것]()
+- [인덱스에 대한 모든것](https://github.com/RokwonK/TIL/blob/master/V2/CS/DB/인덱스.md)
 - [어떤 DB를 사용해야하는가 - CAP 이론]()
 - [Replication, 파티셔닝, 샤딩]()
     - Replication
