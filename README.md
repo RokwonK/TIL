@@ -23,7 +23,6 @@ Today I Learned
 ## **Computer Science**
 ### **DB**
 - [DBMS와 DB](https://github.com/RokwonK/TIL/blob/master/V2/CS/DB/DB와_DBMS.md)
-- [Join]()
 - [트랜잭션에 대한 모든것](https://github.com/RokwonK/TIL/blob/master/V2/CS/DB/트랜잭션.md)
 - [정규화에 대한 모든것]()
 - [인덱스에 대한 모든것](https://github.com/RokwonK/TIL/blob/master/V2/CS/DB/인덱스.md)
@@ -45,7 +44,7 @@ Today I Learned
 
 ## **Swift**
 - [Swift 프로퍼티 종류](https://github.com/RokwonK/TIL/blob/master/V2/Swift/kind_of_property.md)
-
+- [Functor와 Monad]( )
 
 
 <br><hr><br>
@@ -70,6 +69,7 @@ Today I Learned
 ### **UI Property**
 - [View의 frame과 bounds의 차이](https://github.com/RokwonK/TIL/blob/master/V2/iOS/frame_bounds.md)
 - [setNeedsLayout과 layoutIfNeeded, layoutSubviews](https://github.com/RokwonK/TIL/blob/master/V2/iOS/setNeedsLayout_layoutIfNeeded_layoutSubviews.md)
+- [AutoLayout priority - Hugging, Compression Resistance]()
 - [MVC에 대한 정리]
 - [MVVM에 대한 정리]
 - [MVC와 MVVM의 비교]
