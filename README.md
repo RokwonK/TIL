@@ -61,15 +61,14 @@ Today I Learned
 - [iOS App의 기본 구조](https://github.com/RokwonK/TIL/blob/master/V2/iOS/기초상식/앱의_기본_구조.md)
 
 ### **UIKit**
-- [UIKit](https://github.com/RokwonK/TIL/blob/master/V2/iOS/UIKit.md)
+- [UIKit](https://github.com/RokwonK/TIL/blob/master/V2/iOS/UIKit/UIKit.md)
 - [UIWindow]
+- [View의 frame과 bounds의 차이](https://github.com/RokwonK/TIL/blob/master/V2/iOS/UIKit/frame_bounds.md)
+- [setNeedsLayout과 layoutIfNeeded, layoutSubviews](https://github.com/RokwonK/TIL/blob/master/V2/iOS/UIKit/setNeedsLayout_layoutIfNeeded_layoutSubviews.md)
+- [AutoLayout priority - Hugging, Compression Resistance](https://github.com/RokwonK/TIL/blob/master/V2/iOS/UIKit/AutoLayout_Priority.md)
 - [iOS App의 화면 구조]()
 - [UIViewController란]()
 
-### **UI Property**
-- [View의 frame과 bounds의 차이](https://github.com/RokwonK/TIL/blob/master/V2/iOS/frame_bounds.md)
-- [setNeedsLayout과 layoutIfNeeded, layoutSubviews](https://github.com/RokwonK/TIL/blob/master/V2/iOS/setNeedsLayout_layoutIfNeeded_layoutSubviews.md)
-- [AutoLayout priority - Hugging, Compression Resistance]()
 - [MVC에 대한 정리]
 - [MVVM에 대한 정리]
 - [MVC와 MVVM의 비교]
