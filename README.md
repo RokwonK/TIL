@@ -10,3 +10,6 @@ Today I Learned
 
 ## Infra
 - [Bastion Server란]()
+
+### Software
+- [HTTP Header - Range, X-Total-Count]()
