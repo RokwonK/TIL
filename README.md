@@ -6,6 +6,7 @@ Today I Learned
 ## Node.js
 - [npm, yarn, pnpm](https://github.com/RokwonK/TIL/blob/master/node/npm_yarn_pnpm.md)
 - [ORM이란? TypeORM, Knex, Prisma](https://github.com/RokwonK/TIL/blob/master/node/orm.md)
+- [Nextjs의 렌더링]()
 
 ## Infra
 - [Bastion Server란](https://github.com/RokwonK/TIL/blob/master/Infrastructure/bastion_server.md)
