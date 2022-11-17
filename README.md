@@ -4,14 +4,14 @@ Today I Learned
 
 
 ## 프로그래밍
-- [선언과 정의]()
+- [선언과 정의](https://github.com/RokwonK/TIL/blob/master/programming/%EC%84%A0%EC%96%B8%EA%B3%BC%EC%A0%95%EC%9D%98.md)
 
 ## Node.js
 - [npm, yarn, pnpm](https://github.com/RokwonK/TIL/blob/master/node/npm_yarn_pnpm.md)
 - [ORM이란? TypeORM, Knex, Prisma](https://github.com/RokwonK/TIL/blob/master/node/orm.md)
-- [Nextjs의 렌더링]()
 
-## Infra
+## Infra & AWS
+- [S3]()
 - [Bastion Server란](https://github.com/RokwonK/TIL/blob/master/Infrastructure/bastion_server.md)
 
 ## Software
