@@ -7,7 +7,9 @@ Today I Learned
 - [선언과 정의](https://github.com/RokwonK/TIL/blob/master/programming/%EC%84%A0%EC%96%B8%EA%B3%BC%EC%A0%95%EC%9D%98.md)
 
 ## javascript
+- [__proto__와 prototype의 차이]()
 - [js 뽀개기 - 표준 빌트인 객체(1)]()
+
 
 ## Node.js
 - [npm, yarn, pnpm](https://github.com/RokwonK/TIL/blob/master/node/npm_yarn_pnpm.md)
