@@ -10,6 +10,8 @@ Today I Learned
 - [__proto__와 prototype의 차이](https://github.com/RokwonK/TIL/blob/master/js_deep_dive/proto%EC%99%80prototype%EC%9D%98%EC%B0%A8%EC%9D%B4.md)
 - [js 뽀개기 - 표준 빌트인 객체(1)](https://github.com/RokwonK/TIL/blob/master/js_deep_dive/%ED%91%9C%EC%A4%80%EB%B9%8C%ED%8A%B8%EC%9D%B8%EA%B0%9D%EC%B2%B4_1.md)
 
+## Web
+- [브라우저 렌더링 과정]()
 
 ## Node.js
 - [npm, yarn, pnpm](https://github.com/RokwonK/TIL/blob/master/node/npm_yarn_pnpm.md)
