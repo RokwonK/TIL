@@ -12,6 +12,7 @@ Today I Learned
 
 ## Web
 - [브라우저 렌더링 과정]()
+- [HTTP의 특징과 역사]()
 
 ## Node.js
 - [npm, yarn, pnpm](https://github.com/RokwonK/TIL/blob/master/node/npm_yarn_pnpm.md)
