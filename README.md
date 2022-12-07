@@ -12,7 +12,7 @@ Today I Learned
 
 ## Web
 - [브라우저 렌더링 과정]()
-- [HTTP의 특징과 역사]()
+- [HTTP의 특징과 역사](https://github.com/RokwonK/TIL/blob/master/web/HTTP%EC%9D%98%ED%8A%B9%EC%A7%95%EA%B3%BC%EC%97%AD%EC%82%AC.md)
 
 ## Node.js
 - [npm, yarn, pnpm](https://github.com/RokwonK/TIL/blob/master/node/npm_yarn_pnpm.md)
