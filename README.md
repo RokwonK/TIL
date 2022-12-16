@@ -29,5 +29,6 @@ Today I Learned
 - [HTTP Header - Range, X-Total-Count](https://github.com/RokwonK/TIL/blob/master/software/X-Total-Count.md)
 
 ## Serverless
-- [람다란]()
-- [Serverless 커스텀 도메인 배포](https://github.com/RokwonK/TIL/blob/master/serverless/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4_%EB%8F%84%EB%A9%94%EC%9D%B8_%EB%B0%B0%ED%8F%AC.md)
+- [람다에대해 알아보자](https://github.com/RokwonK/TIL/blob/master/serverless/%EB%9E%8C%EB%8B%A4%EB%9E%80.md)
+- [람다의 동작원리]()
+- [Serverless Framework - 커스텀 도메인 배포](https://github.com/RokwonK/TIL/blob/master/serverless/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4_%EB%8F%84%EB%A9%94%EC%9D%B8_%EB%B0%B0%ED%8F%AC.md)
