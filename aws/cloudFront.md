@@ -17,10 +17,7 @@ category: AWS
 
 ### 동작 방식
 
----
-이미지  
-
----
+![cloudfront](https://user-images.githubusercontent.com/52196792/208246079-36fed2ca-524c-4940-a0d7-f239b85ebc53.png)
 
 1. 클라이언트로부터 요청 받은 컨텐츠가 엣지 로케이션에 있다면 전달  
 2. 요청 받은 컨텐츠가 엣지 로케이션에 없다면 `Origin` 으로부터 제공받아 전달(이때 캐싱)  
