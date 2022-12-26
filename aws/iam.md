@@ -1,7 +1,7 @@
 ---
 title: IAM
 author: 김록원
-date: 2022.12.25
+date: 2022.12.26
 category: AWS
 ---
 
@@ -165,6 +165,6 @@ Role은 Policy을 가진다는 것에서 IAM User와 비슷하게 보이지만 �
 - Users : 실제 사용자와 IAM 사용자를 매핑
 - Groups : 사용자만을 포함한다.(다른 그룹을 포함할 수는 없다)
 - Policies : JSON 문서로 만들어진 권한 정책으로 유저나 그룹에게 부여할 수 있다.(접근 권한에 대한 명세)
-- Roles : 사용자가 아닌 AWS 서비스에게 권한 정책을 부여할 수 있다. (서비스에게 다른 서비스에 대한 권한을 부여하는 기능)
-- Security : MFA + Password Policy
-- Security Tools : IAM Credential Reports & IAM Access Advisor
+- Roles : 사용자 및 AWS 서비스에게 다른 서비스로의 임시 접근 권한을 부여할 수 있다. 
+- Security : MFA, Password Policy
+- Security Tools : IAM Credential Reports, IAM Access Advisor
