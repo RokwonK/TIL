@@ -28,7 +28,8 @@ Today I Learned
 <br />  
 
 ## Infrastructure 
-- [Terraform 기본 명령어, 파일/디렉터리]()
+- [Terraform - 기본 명령어, 파일/디렉터리]()
+- [Terraform - 키워드(provider, resource, data, variable, local)]()
 
 
 <br />  
