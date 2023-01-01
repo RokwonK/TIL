@@ -19,12 +19,17 @@ Today I Learned
 
 <br />  
 
-## Infra & AWS
+## AWS
 - [AWS S3](https://github.com/RokwonK/TIL/blob/master/aws/s3.md)
-- [Bastion Server란](https://github.com/RokwonK/TIL/blob/master/Infrastructure/bastion_server.md)
 - [AWS CloudFront](https://github.com/RokwonK/TIL/blob/master/aws/cloudFront.md)
 - [AWS IAM이란](https://github.com/RokwonK/TIL/blob/master/aws/iam.md)
 - [CloudFront Mutil Origin]()
+
+<br />  
+
+## Infrastructure 
+- [Terraform 기본 명령어, 파일/디렉터리]()
+
 
 <br />  
 
