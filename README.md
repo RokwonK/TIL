@@ -23,7 +23,32 @@ Today I Learned
 - [AWS S3](https://github.com/RokwonK/TIL/blob/master/aws/s3.md)
 - [AWS CloudFront](https://github.com/RokwonK/TIL/blob/master/aws/cloudFront.md)
 - [AWS IAM이란](https://github.com/RokwonK/TIL/blob/master/aws/iam.md)
-- [CloudFront Mutil Origin]()
+- [CloudFront Mutil Origin]()  
+
+<br />  
+
+**AWS SAA**
+- [API Gateway](https://github.com/RokwonK/TIL/blob/master/aws/api_gateway.md)
+- [Beanstalk](https://github.com/RokwonK/TIL/blob/master/aws/beanstalk.md)
+- [CloudFront](https://github.com/RokwonK/TIL/blob/master/aws/cloudFront.md)
+- [Container Service - ECS, EKS, App Runner](https://github.com/RokwonK/TIL/blob/master/aws/container.md)
+- [Database Service - RDS, Aurora, S3, DynamoDB, Neptune 등](https://github.com/RokwonK/TIL/blob/master/aws/database.md)
+- [DataSync](https://github.com/RokwonK/TIL/blob/master/aws/datasync.md)
+- [DynamoDB](https://github.com/RokwonK/TIL/blob/master/aws/dynamoDB.md)
+- [EC2](https://github.com/RokwonK/TIL/blob/master/aws/ec2.md)
+- [ELB, ASG](https://github.com/RokwonK/TIL/blob/master/aws/elb_asg.md)
+- [IAM](https://github.com/RokwonK/TIL/blob/master/aws/iam.md)
+- [Kinesis](https://github.com/RokwonK/TIL/blob/master/aws/kinesis.md)
+- [Monitoring Service - CloudWatch, CloudTrail, Config](https://github.com/RokwonK/TIL/blob/master/aws/monitoring.md)
+- [Organizations](https://github.com/RokwonK/TIL/blob/master/aws/organizations.md)
+- [RDS](https://github.com/RokwonK/TIL/blob/master/aws/rds.md)
+- [Route53](https://github.com/RokwonK/TIL/blob/master/aws/route53.md)
+- [S3](https://github.com/RokwonK/TIL/blob/master/aws/s3.md)
+- [Security Service - KMS, SSM, ASM, ACM, WAF, Shield ...](https://github.com/RokwonK/TIL/blob/master/aws/security.md)
+- [SNS](https://github.com/RokwonK/TIL/blob/master/aws/sns.md)
+- [SQS](https://github.com/RokwonK/TIL/blob/master/aws/sqs.md)
+- [Storage Service 요약](https://github.com/RokwonK/TIL/blob/master/aws/storage.md)
+- [VPC Service](https://github.com/RokwonK/TIL/blob/master/aws/vpc.md)
 
 <br />  
 
