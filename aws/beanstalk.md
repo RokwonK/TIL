@@ -10,7 +10,7 @@
 - Application Components의 묶음으로 되어 있음
 - Application Version 존재 
 - Environment
-  - 두가지 티어가 있음 : Web Server(전통적인 아키텍쳐 모습), Worker(SQS 대기열 등 사용)
+  - 두가지 티어가 있음 : Web Server(전통적인 아키텍쳐 모습 배포), Worker(SQS 대기열 등 배포)
   - 다수의 환경 만들기 가능(dev, test, prod)
 
 사용 순서
