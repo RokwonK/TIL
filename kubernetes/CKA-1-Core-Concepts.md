@@ -66,3 +66,37 @@ Pod은 다른 Pod에 접근할 수 있다.(Pod Network)
 ### Pods
 쿠버네티스가 관리하는 가장 작은 오브젝트.
 - YAML 파일로 정의
+
+
+### Replication-Controller
+Pod이 고장나거나 다운된다면? 유저가 접속을 못함
+- 고가용성 제공
+
+1. Replication Controller (Legacy)
+2. Replica Sets
+    - 어떤 Pod들을 모니터링 할 것인지 selector에 정의할 수 있음(Pod 설정에 정의된 Label로 필터링 가능)
+
+
+### Deployments
+어떻게 프로덕션 환경에 배포할 것인가(무중단 배포와 같은 것)
+- Replica Set보다 하이레벨 개념.
+- 중지, 변화, 재게 등
+
+
+### Services
+구성요소 그룹 간의 연결을 담당(미들웨어 느낌)
+- Pod - Pod, User - Pod, External - Pod
+- 다른 네트워크간 연결을 할 수 있도록 지원
+1. Node Port (Node에 존재)
+  - Target Port : Pod이 열어놓은 포트
+  - (Service) Port : Target Port에 매핑되는 Service의 포트
+  - Node Port : 외부에 열어놓은 포트
+2. Cluster IP
+  - 다양한 포드 그룹. 모든 포드가 가지는 IP는 고정이 아님.
+  - 포드를 하나로 묶고 접속할 수 있는 하나의 인터페이스가 있으면 좋음. Cluster가 그 역할
+3. Load Balancer
+  - 단일 URL을 제공하고 연결된 포드 그룹에 로드 밸런싱
+
+
+### NameSpaces
+클러스터를 논리적으로 나눈 서브 클러스터
